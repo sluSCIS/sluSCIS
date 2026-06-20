@@ -1,7 +1,5 @@
 
 # Hello, I'm Jason
-<a href="https://linkedin.com/in/obenajason"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 ## Objective
 I am deeply passionate about safeguarding individuals’ digital identities and the critical role it plays in our increasingly interconnected world. Although I do not have prior experience in cybersecurity, my commitment to understanding and protecting digital information drives my pursuit of the Google Cybersecurity Certificate. I believe that this program will equip me with essential skills and knowledge to make a meaningful impact in the field.
